@@ -12,8 +12,8 @@ This repository contains my completed labs, notes, scripts, write-ups, and proof
 
 | Labs                                                             | Status                 | Labs Completed |
 |-----------------------------------------------------------------------|------------------------|----------------|
-| Cyber Security Foundation                                             | In Progress         | ~10/20         |       
-| Digital Defense Core                                                  | In Progress         | ~0/20         |       
+| Cyber Security Foundation                                             | DONE        | 20/20         |       
+| Digital Defense Core                                                  | DONE         | 20/20         |       
 | Al Razzaq Cyber Defense Specialist                                    | In Progress         | ~0/20         |       
 | Al Razzaq Incident Response & Adversary Emulation                    | In Progress         | ~0/20         |       
 | Al Razzaq Linux Security & Administration Specialist                 | In Progress         | ~0/20         |       
